@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shopey%20/static/css/main.c8790c1f.css",
+    "main.js": "/shopey%20/static/js/main.a5658c35.js",
+    "static/js/787.d3befce1.chunk.js": "/shopey%20/static/js/787.d3befce1.chunk.js",
+    "index.html": "/shopey%20/index.html",
+    "main.c8790c1f.css.map": "/shopey%20/static/css/main.c8790c1f.css.map",
+    "main.a5658c35.js.map": "/shopey%20/static/js/main.a5658c35.js.map",
+    "787.d3befce1.chunk.js.map": "/shopey%20/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8790c1f.css",
+    "static/js/main.a5658c35.js"
+  ]
+}
